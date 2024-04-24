@@ -30,7 +30,7 @@ img , iframe{
 }
 
 .indice{
-    color: rgb(222, 150, 255);
+    color: rgb(150, 204, 255);
 }
 
 .en-enlace:hover , .en-indice:hover , .boton-regresar:hover{
@@ -65,4 +65,8 @@ img , iframe{
 
 .font-size-table-title{
     font-size: 20px;
+}
+
+.borde-redondear{
+    border-radius: 100%;
 }
